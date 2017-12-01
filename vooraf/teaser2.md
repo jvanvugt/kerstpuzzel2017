@@ -1,2 +1,2 @@
-![alt text](/aivdpuzzel0.jpg?raw=true "Title")
+![alt text](aivdpuzzel0.jpg?raw=true "Title")
 
