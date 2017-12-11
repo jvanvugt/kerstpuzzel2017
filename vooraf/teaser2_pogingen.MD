@@ -23,6 +23,8 @@ sleutel in orgineel -> b misschien? of 007 ? = 21 in 3-tallig = h.
 
 via lengte de woorden vinden? -> 25, 49, 24. Tweede woord is dan minimaal 17 lang en waarschijnlijk 20-25 lang.
 
+andere poging +1 -> 3-tallig
+22 2101 110 212 100 002 102 101 112 200 221 022 012 201 222 1220
 
 0  = a
 1  = b
