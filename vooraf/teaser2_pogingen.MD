@@ -14,9 +14,8 @@ base-3 gelijke nummers:
 
 102102100220201202011121
 
-Nu de juiste splitsingen vinden. Als er geen a in zit is 0 nooit de start van een letter:
-
-10 100 21 210 21 22 200 0 12 10 100
+Nu de juiste splitsingen vinden. Als er geen a in zit is 0 nooit de start van een letter -> werkt niet
+sleutel in orgineel -> b misschien?
 
 0  = a
 1  = b
