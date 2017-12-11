@@ -1,4 +1,5 @@
 https://www.aivd.nl/onderwerpen/informatiebeveiliging/het-nationaal-bureau-voor-verbindingsbeveiliging-nbv/aivd-kerstpuzzel-2017/316836563400.122764259789704464121195.119467794040.pdf -> werkt niet 
+https://www.aivd.nl/onderwerpen/informatiebeveiliging/het-nationaal-bureau-voor-verbindingsbeveiliging-nbv/aivd-kerstpuzzel-2017/1010021210212220001210100.1112112222001101011010222222022022120010122112102.102102100220201202011121.pdf
 
 base-10 nummers:
 
