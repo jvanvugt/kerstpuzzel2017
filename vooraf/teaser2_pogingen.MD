@@ -26,6 +26,9 @@ via lengte de woorden vinden? -> 25, 49, 24. Tweede woord is dan minimaal 17 lan
 andere poging +1 -> 3-tallig
 22 2101 110 212 100 002 102 101 112 200 221 022 012 201 222 1220
 
+tweeduizendzeventien?
+111 211 22 22 0 011 01 011 01 022 2222022022120010122112102
+
 0  = a
 1  = b
 2  = c
