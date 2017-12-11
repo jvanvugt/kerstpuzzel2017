@@ -1,3 +1,5 @@
+https://www.aivd.nl/onderwerpen/informatiebeveiliging/het-nationaal-bureau-voor-verbindingsbeveiliging-nbv/aivd-kerstpuzzel-2017/316836563400.122764259789704464121195.119467794040.pdf -> werkt niet 
+
 base-10 nummers:
 
 316836563400
